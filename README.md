@@ -5,9 +5,10 @@
   					<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
 </div>
 
-<h3>What I'm working on</h3>
+## What I'm working on
 <!-- WHAT-IM-DOING:START -->
 - [Node](https://nodejs.org/en/)
 - [Go](https://golang.org/)
 - [A Dogehouse bot 🚀](https://github.com/benawad/dogehouse)
 <!-- WHAT-IM-DOING:END -->
+
