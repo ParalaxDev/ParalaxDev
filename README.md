@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&count_private=true&include_all_commits=true&theme=tokyonight" alt="paralaxdev" />
 </a>
 <a href="https://github.com/paralaxdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
 </a>
 
 ## What I'm working on
