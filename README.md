@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hey, I'm Will</h1>
 
-<div align="center">
-						<img height="170" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&count_private=true&include_all_commits=true&theme=tokyonight" alt="paralaxdev" />
-  					<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
-</div>
+<a href="https://github.com/paralaxdev">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&count_private=true&include_all_commits=true&theme=tokyonight" alt="paralaxdev" />
+</a>
+<a href="https://github.com/paralaxdev">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
+</a>
 
 ## What I'm working on
 <!-- WHAT-IM-DOING:START -->
