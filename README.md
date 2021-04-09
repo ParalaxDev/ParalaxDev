@@ -6,7 +6,8 @@
 </div>
 
 <h3>What I'm working on</h3>
+<!-- WHAT-IM-DOING:START -->
 - [Node](https://nodejs.org/en/)
 - [Go](https://golang.org/)
 - [A Dogehouse bot 🚀](https://github.com/benawad/dogehouse)
-
+<!-- WHAT-IM-DOING:END -->
