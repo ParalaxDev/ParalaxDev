@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ParalaxDev
-- 👀 I’m interested in making websites and desktop apps
-- 🌱 I’m currently learning React
-- 📫 You can reach me on discord @Paralax#7228
+<h1 align="center">👋 Hey, I'm Will</h1>
 
-<!---
-ParalaxDev/ParalaxDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+						<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&count_private=true&include_all_commits=true&theme=tokyonight" alt="paralaxdev" />
+  					<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&layout=compact&theme=tokyonight&langs_count=15" />
+</div>
+
+<h3>What I'm working on</h3>
+- [Node](https://nodejs.org/en/)
+- [Go](https://golang.org/)
+- [A Dogehouse bot 🚀](https://github.com/benawad/dogehouse)
+
