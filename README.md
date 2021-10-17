@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will (aka Paralax)</h1>
-<h3 align="center">A Computer Science and Graphic Desgin Student from London</h3>
+<h3 align="center">A Computer Science and Graphic Design Student from London</h3>
 
 - 🔭 I’m currently working on **Puzzle Solver AI**
 
