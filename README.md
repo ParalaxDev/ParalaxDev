@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vue.js, C++**
 
-- 👨‍💻 My current website (being reworked) [paralax.xyz](https://paralax.xyz)
+- 👨‍💻 My current website [paralax.xyz](https://paralax.xyz)
 
 - 📫 Ping me a message at **Paralax#7228 (discord)**
 
