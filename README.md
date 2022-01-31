@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Will (aka Paralax)</h1>
-<h3 align="center">A Computer Science and Graphic Design Student from London</h3>
-
-- 🔭 I’m currently working on **Puzzle Solver AI**
-
-- 🌱 I’m currently learning **React, Vue.js, C++**
-
-- 👨‍💻 My current website [paralax.xyz](https://paralax.xyz)
-
-- 📫 Ping me a message at **Paralax#7228 (discord)**
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paralaxdev&show_icons=true&locale=en&layout=compact" alt="paralaxdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&show_icons=true&locale=en" alt="paralaxdev" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paralaxdev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paralaxdev&langs_count=3&hide_title=true&hide_border=true" />
+</a>
